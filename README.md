@@ -57,6 +57,7 @@ The resulting ADF file will contain a table of contents from location $400. All 
 
 Each entry is 16 bytes long.
 
+|Field|Description|
 |:---|:---|
 |FileID|LONG - ASCII FileID|
 |Disk Position|LONG - The starting position in bytes on the disk|
