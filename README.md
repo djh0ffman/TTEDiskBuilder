@@ -34,4 +34,13 @@ Example json
 |Packing Method|See below|
 |Cacheable|Sets file to be cacheable by TTE loader|
 
+Packing Method
+
+        0 = None
+        1 = Shrinkler
+        2 = ZX0
+        3 = LZ
+        4 = Deflate
+        5 = Trim
+
 
