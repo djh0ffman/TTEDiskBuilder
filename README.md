@@ -57,6 +57,7 @@ The resulting ADF file will contain a table of contents from location $400. All 
 
 Each entry is 16 bytes long.
 
+|:---|:---|
 |FileID|LONG - ASCII FileID|
 |Disk Position|LONG - The starting position in bytes on the disk|
 |Packed File Size|LONG - bits 31-28 = Packing Type / bits 27-24 = Cache flag / bits 23-0 = Data length|
@@ -64,6 +65,3 @@ Each entry is 16 bytes long.
 
 
 
-
-|Packing Method|See below|
-|Cacheable|Sets file to be cacheable by TTE loader|
