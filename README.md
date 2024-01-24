@@ -26,3 +26,14 @@ Example json
   }
 ]
 ```
+
+:-:-:
+:Field:Description:
+:-:-:
+:Filename:Physical file name in folder:
+:FileID:Four byte alpha-numeric file identifier:
+:Packing Method:See below:
+:Cacheable:Sets file to be cacheable by TTE loader:
+:-:-:
+
+
